@@ -1,0 +1,33 @@
+    h1 {
+    color : red;
+    }
+    *{
+    border : solid;
+    }
+
+    .header {
+        background-color : royalblue;
+        display : flex;
+        justify-content : space-between;
+    }
+    
+    .Site-Descricption {
+        display : flex;
+        flex-direction : column;
+        justify-content : first baseline;
+    }
+
+    .grid {
+        display : flex;
+        flex-wrap : wrap;
+        justify-content : space-evenly;
+    }
+
+    .footer {
+        display : flex;
+        justify-content : flex-end;
+    }
+    body {
+        background-color : #606060;
+    }
+
